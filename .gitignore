@@ -9,3 +9,5 @@ test-results/
 coverage.out
 .DS_Store
 .env
+
+.idea
